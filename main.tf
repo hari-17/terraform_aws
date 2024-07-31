@@ -10,8 +10,7 @@ variable "secret_key" {
 
 provider "aws" {
   region = "us-east-2"
-  access_key = "AKIAVRUVPOFJMJC56XEO"
-  secret_key = "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"
+ 
 }
 
 # VPC
